@@ -4,7 +4,7 @@
 
 [![My Skills](https://skillicons.dev/icons?i=py,gamemakerstudio,c,cpp,cs,java,kotlin&theme=light)](https://skillicons.dev)
 
-Я также знакомился с языками программирования JavaScript, TypeScript, ASM, Dart(Flutter).
+Я также знакомился с языками программирования JavaScript, TypeScript, Go, Dart(Flutter).
 
-[![My Skills](https://skillicons.dev/icons?i=js,ts,asm,dart,flutter&theme=light)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,ts,go,dart,flutter&theme=light)](https://skillicons.dev)
 
