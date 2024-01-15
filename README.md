@@ -3,7 +3,7 @@
 Я занимаюсь программированием (в основном разработка игр, но есть ещё вузовские лабы и другие вещи). Обожаю делать игры на:
 [![My Skills](https://skillicons.dev/icons?i=py,gamemakerstudio,godot,unity&theme=light)](https://skillicons.dev)
 
-Хочу ещё и [![My Skills](https://skillicons.dev/icons?i=unreal&theme=light)](https://skillicons.dev) изучить
+Хочу ещё и [![My Skills](https://skillicons.dev/icons?i=unreal&theme=light)](https://skillicons.dev) и ![cocos](https://github.com/AivanSpooky/AivanSpooky/assets/59971253/b76ed839-9d06-4485-8ca6-4c62a7764d4f) изучить
 
  Мои основные языки программирования - Python, GameMakerLanguage, C, C++, C#, Java и Kotlin.
 
