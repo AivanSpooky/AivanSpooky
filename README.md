@@ -3,7 +3,7 @@
 Я занимаюсь программированием (в основном разработка игр, но есть ещё вузовские лабы и другие вещи). Обожаю делать игры на:
 [![My Skills](https://skillicons.dev/icons?i=py,gamemakerstudio,godot,unity&theme=light)](https://skillicons.dev)
 
-Хочу ещё и [![My Skills](https://skillicons.dev/icons?i=unreal&theme=light)](https://skillicons.dev) и <img src="https://img.shields.io/badge/cocos-%23734F96.svg?&style=for-the-badge&logo=fortran&logoColor=white" />
+Хочу ещё и [![My Skills](https://skillicons.dev/icons?i=unreal&theme=light)](https://skillicons.dev) и <img src="https://img.shields.io/badge/cocos-%23734F96.svg?&style=for-the-badge&logo=cocos&logoColor=white" />
   изучить
 
  Мои основные языки программирования - Python, GameMakerLanguage, C, C++, C#, Java и Kotlin.
