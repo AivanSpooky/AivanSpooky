@@ -6,11 +6,11 @@
 Хочу ещё и [![My Skills](https://skillicons.dev/icons?i=unreal&theme=light)](https://skillicons.dev) и <img src="https://img.shields.io/badge/cocos-%2355C2E1.svg?&style=for-the-badge&logo=cocos&logoColor=black" />
   изучить
 
- Мои основные языки программирования - Python, GameMakerLanguage, C, C++, C#, Java и Kotlin.
+ Мои фавориты: (Programming Languages)
 
 [![My Skills](https://skillicons.dev/icons?i=py,gamemakerstudio,c,cpp,cs,java,kotlin&theme=light)](https://skillicons.dev)
 
-Я также знакомился с языками программирования JavaScript, TypeScript, Go, Dart(Flutter).
+Я также знакомился со следующим:
 
 [![My Skills](https://skillicons.dev/icons?i=js,ts,go,dart,flutter&theme=light)](https://skillicons.dev)
 
