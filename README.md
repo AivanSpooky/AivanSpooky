@@ -14,6 +14,7 @@
 
 [![My Skills](https://skillicons.dev/icons?i=js,ts,go,dart,flutter&theme=light)](https://skillicons.dev)
 
-Из ide использую [![My Skills](https://skillicons.dev/icons?i=vscode&theme=light)](https://skillicons.dev) vscode
+Из ide использую [![My Skills](https://skillicons.dev/icons?i=vscode&theme=light)]
+https://skillicons.dev/icons?i=visualstudio&theme=light(https://skillicons.dev)
 
 Знаком с [![My Skills](https://skillicons.dev/icons?i=css,html,sqlite,qt,postgres,nginx,gitlab,fastapi,django,flask,bootstrap,autocad,androidstudio,&theme=light)](https://skillicons.dev)
