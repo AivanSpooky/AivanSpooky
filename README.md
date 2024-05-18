@@ -17,3 +17,6 @@
 Из ide использую [![My Skills](https://skillicons.dev/icons?i=vscode&theme=light)][![My Skills](https://skillicons.dev/icons?i=visualstudio)](https://skillicons.dev)
 
 Знаком с [![My Skills](https://skillicons.dev/icons?i=css,html,sqlite,qt,postgres,nginx,gitlab,fastapi,django,flask,bootstrap,autocad,androidstudio,&theme=light)](https://skillicons.dev)
+### Stats :computer::        
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=AivanSpooky&show_icons=true&theme=transparent-dark)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AivanSpooky&layout=compact&theme=transparrent-dark)](https://github.com/anuraghazra/github-readme-stats)
