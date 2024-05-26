@@ -17,11 +17,11 @@
 
  Мои фавориты: (Programming Languages)
 
-[![My Skills](https://skillicons.dev/icons?i=py,gamemakerstudio,c,cpp,cs,java,kotlin&theme=light)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=py,gamemakerstudio,c,cpp,cs,java,js&theme=light)](https://skillicons.dev)
 
 Я также знакомился со следующим:
 
-[![My Skills](https://skillicons.dev/icons?i=js,ts,go,dart,flutter&theme=light)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=kotlin,ts,go,dart,flutter&theme=light)](https://skillicons.dev)
 
 Из ide использую [![My Skills](https://skillicons.dev/icons?i=vscode&theme=light)][![My Skills](https://skillicons.dev/icons?i=visualstudio)](https://skillicons.dev)
 
