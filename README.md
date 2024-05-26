@@ -1,5 +1,10 @@
 # Привет! 👋 Я Смирнов Иван Владимирович (или же sp00ky, Eclipscd, Aivan, IvanInTheHood, 
+### Stats :computer::        
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=AivanSpooky&show_icons=true&theme=transparent-dark)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AivanSpooky&layout=compact&theme=transparrent-dark)](https://github.com/anuraghazra/github-readme-stats)
 
+Краткая информация о себе:
+- 20 лет
 Я занимаюсь программированием (в основном разработка игр, но есть ещё вузовские лабы и другие вещи). Обожаю делать игры на:
 [![My Skills](https://skillicons.dev/icons?i=py,gamemakerstudio,godot,unity&theme=light)](https://skillicons.dev)
 
@@ -17,6 +22,4 @@
 Из ide использую [![My Skills](https://skillicons.dev/icons?i=vscode&theme=light)][![My Skills](https://skillicons.dev/icons?i=visualstudio)](https://skillicons.dev)
 
 Знаком с [![My Skills](https://skillicons.dev/icons?i=css,html,sqlite,qt,postgres,nginx,gitlab,fastapi,django,flask,bootstrap,autocad,androidstudio,&theme=light)](https://skillicons.dev)
-### Stats :computer::        
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=AivanSpooky&show_icons=true&theme=transparent-dark)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AivanSpooky&layout=compact&theme=transparrent-dark)](https://github.com/anuraghazra/github-readme-stats)
+
