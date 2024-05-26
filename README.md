@@ -17,7 +17,7 @@
 
  Мои фавориты: (Programming Languages)
 
-[![My Skills](https://skillicons.dev/icons?i=py,gamemakerstudio,c,cpp,cs,java,js&theme=light)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=cs,cpp,py,gamemakerstudio,c,java,js&theme=light)](https://skillicons.dev)
 
 Я также знакомился со следующим:
 
