@@ -1,4 +1,4 @@
-![ru](https://github.com/user-attachments/assets/22e49c89-72f1-4d14-9fab-5a58c487bf6c)# Привет! 👋 Я Смирнов Иван Владимирович (или же sp00ky, Eclipscd, Aivan, IvanInTheHood, 
+# Привет! 👋 Я Смирнов Иван Владимирович (или же sp00ky, Eclipscd, Aivan, IvanInTheHood, 
 ### Stats :computer::        
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=AivanSpooky&show_icons=true&theme=transparent-dark)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AivanSpooky&layout=compact&theme=transparrent-dark)](https://github.com/anuraghazra/github-readme-stats)
@@ -8,7 +8,7 @@
 - Москва
 - На данный момент учусь в МГТУ им. Н.Э.Баумана на кафедре ИУ7 (Программное обеспечение ЭВМ и информационные
 технологии)
-- ![](images/ru.svg) ![](images/gb.svg) ![](images/fi.svg)
+- <img src="images/ru.svg" alt="Флаг России" width="50" height="30"> ![](images/gb.svg) ![](images/fi.svg)
 
 
 Я занимаюсь программированием (в основном разработка игр, но есть ещё вузовские лабы и другие вещи). Обожаю делать игры на:
