@@ -9,7 +9,7 @@
 - На данный момент учусь в МГТУ им. Н.Э.Баумана на кафедре ИУ7 (Программное обеспечение ЭВМ и информационные
 технологии)
 - speaking: <img src="images/rus.svg" alt="Флаг России" width="50" height="30"> <img src="images/usa.svg" alt="Флаг Великобритании" width="50" height="30">
-- studying: <img src="images/fin.svg" alt="Флаг Финляндии" width="50" height="30">
+- studying: <img src="images/fin.svg" alt="Флаг Финляндии" width="50" height="30"> <img src="images/esp.svg" alt="Флаг Испании" width="50" height="30">
 
 
 Я занимаюсь программированием (в основном разработка игр, но есть ещё вузовские лабы и другие вещи). Обожаю делать игры на:
