@@ -1,5 +1,5 @@
 # Привет! 👋 Я Смирнов Иван Владимирович (или же sp00ky, Eclipscd, Aivan, IvanInTheHood, 
-### Stats :computer::        
+### Stats :computer:: <img align="right" src="https://komarev.com/ghpvc/?username=AivanSpooky"/>        
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=AivanSpooky&show_icons=true&theme=transparent-dark)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AivanSpooky&layout=compact&theme=transparrent-dark)](https://github.com/anuraghazra/github-readme-stats)
 
