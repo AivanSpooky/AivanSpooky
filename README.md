@@ -18,6 +18,13 @@ cas cas cas
 Хочу ещё и [![My Skills](https://skillicons.dev/icons?i=unreal&theme=light)](https://skillicons.dev) и <img src="https://img.shields.io/badge/cocos-%2355C2E1.svg?&style=for-the-badge&logo=cocos&logoColor=black" />
   изучить
 
+  Есть:
+  1) [Abyss Chess](https://uncledrema.itch.io/abyss-chess) - гиперказуальная игра; 3D шахматы с исчезающими полями; реализация на Unity
+  2) [WarIO](https://github.com/AivanSpooky/DD_LearnGameWarIo) - гиперказуальная игра; 2.5D шутер на арене с появляющимися врагами, оружиями, бонусами; реализация на Unity
+  3) [Galaxy 1.2.2](https://github.com/AivanSpooky/GML-Galaxy) - космический шутер; отражение волн вражеских космических кораблей; реализация на GameMaker
+  4) [Galaxy 1.1.0](https://github.com/AivanSpooky/pygame-galaxy) - космический шутер; отражение волн вражеских космических кораблей; реализация на pygame
+  5) [GeometryMania TowerDefence 1.2.0](https://github.com/AivanSpooky/GeometryMania---Tower-Defence) - защита башни; отражение волн противников-кубов (кубиксов) охраняющими свою территорию шаров (шариксов); реализация на GameMaker
+
  Мои фавориты: (Programming Languages)
 
 [![My Skills](https://skillicons.dev/icons?i=cs,cpp,py,gamemakerstudio,c,java,js&theme=light)](https://skillicons.dev)
@@ -30,5 +37,4 @@ cas cas cas
 
 Знаком с [![My Skills](https://skillicons.dev/icons?i=css,html,sqlite,qt,postgres,nginx,gitlab,fastapi,django,flask,bootstrap,autocad,androidstudio,&theme=light)](https://skillicons.dev)
 
-
-кста, довольно много отсебятины
+негатив не переношу, только позитив
