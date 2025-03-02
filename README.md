@@ -3,7 +3,8 @@
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=AivanSpooky&show_icons=true&theme=transparent-dark)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AivanSpooky&layout=compact&theme=transparrent-dark)](https://github.com/anuraghazra/github-readme-stats)
 
-Brief info:
+
+### == The 411 ===
 - 21 years
 - Moscow, Russia
 - Currently studying at Bauman University (BMSTU) on ICS7 department (Software Engineering)
@@ -11,7 +12,7 @@ Brief info:
 - studying: <img src="images/fin.svg" alt="Флаг Финляндии" width="50" height="30"> <img src="images/dnk.svg" alt="Флаг Дании" width="50" height="30">
 
 
-### == The 411 ===
+### == CODING ===
 
 I love coding. Interested in Crypto&Games
 
