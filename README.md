@@ -9,7 +9,7 @@
 - Moscow, Russia
 - Currently studying at Bauman University (BMSTU) on ICS7 department (Software Engineering)
 - speaking: <img src="images/rus.svg" alt="Флаг России" width="50" height="30"> <img src="images/usa.svg" alt="Флаг Великобритании" width="50" height="30">
-- studying: <img src="images/fin.svg" alt="Флаг Финляндии" width="50" height="30"> <img src="images/dnk.svg" alt="Флаг Дании" width="50" height="30">
+- studying: <img src="images/fin.svg" alt="Флаг Финляндии" width="50" height="30"> <img src="images/svk.svg" alt="Флаг Словакии" width="50" height="30">
 
 
 ### == CODING ===
