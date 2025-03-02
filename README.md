@@ -11,14 +11,18 @@ Brief info:
 - studying: <img src="images/fin.svg" alt="Флаг Финляндии" width="50" height="30"> <img src="images/dnk.svg" alt="Флаг Дании" width="50" height="30">
 
 
+### == The 411 ===
+
 I love coding. Interested in Crypto&Games
 
 My favourites: (Programming Languages)
 
 [![My Skills](https://skillicons.dev/icons?i=cs,cpp,py,java,c,js,gamemakerstudio&theme=light)](https://skillicons.dev)
 
-== GAMES ===
+### == GAMES ===
+
 I’m all about cookin’ up games on:
+
 [![My Skills](https://skillicons.dev/icons?i=py,gamemakerstudio,godot,unity&theme=light)](https://skillicons.dev)
 
   Есть:
@@ -28,7 +32,8 @@ I’m all about cookin’ up games on:
   4) [Galaxy 1.1.0](https://github.com/AivanSpooky/pygame-galaxy) - Space shooter redux; battlin’ waves of enemy spaceships; built with pygame.
   5) [GeometryMania TowerDefence 1.2.0](https://github.com/AivanSpooky/GeometryMania---Tower-Defence) - Tower defense grind; protectin’ your turf from waves of cube foes (cubix) with your squad of sphere defenders (spherix); crafted in GameMaker.
 
-=== EXTENSION ===
+### === EXTENSION ===
+
 I’ve also been dabblin’ in:
 
 [![My Skills](https://skillicons.dev/icons?i=kotlin,ts,go,dart,flutter&theme=light)](https://skillicons.dev)
@@ -37,4 +42,4 @@ Main IDE: [![My Skills](https://skillicons.dev/icons?i=visualstudio)](https://sk
 
 I'm cozy with: [![My Skills](https://skillicons.dev/icons?i=css,html,sqlite,qt,postgres,nginx,gitlab,fastapi,django,flask,bootstrap,autocad,androidstudio,&theme=light)](https://skillicons.dev)
 
-негатив не переношу, только позитив
+No room for negativity here—just good vibes and positive energy.
