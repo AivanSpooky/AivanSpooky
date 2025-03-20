@@ -18,7 +18,7 @@ I love coding. Interested in Crypto&Games
 
 My favourites: (Programming Languages)
 
-[![My Skills](https://skillicons.dev/icons?i=cs,cpp,py,java,c,js,gamemakerstudio&theme=light)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=cs,js,cpp,py,java,c,gamemakerstudio&theme=light)](https://skillicons.dev)
 
 ### == GAMES ===
 
